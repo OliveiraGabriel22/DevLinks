@@ -83,6 +83,7 @@ body * {
   top: 50%;
   left: 0;
    animation: slide-out 0.4s;
+   cursor: pointer;
 }
 
 .light #switch button {
